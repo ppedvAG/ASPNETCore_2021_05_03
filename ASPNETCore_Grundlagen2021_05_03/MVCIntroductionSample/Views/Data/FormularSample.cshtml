@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewData["Title"] = "FormularSample";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>FormularSample</h1>
+
+<p>Erstes Beispiel zeigt ein leeres Formular an mit zwei Buttons</p>
+
+<form asp-controller="Data" asp-action="ProcessFormular" method="post">
+    <input type="submit" name="submit" value="Save" />
+    <input type="submit" name="submit" value="Cancel" />
+</form>
+
+<form asp-controller="Data" asp-action="ProcessFormular123" method="post">
+    <input type="submit" name="submit" value="Save" />
+    <input type="submit" name="submit" value="Cancel" />
+</form>
+

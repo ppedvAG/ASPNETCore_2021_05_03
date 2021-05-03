@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewData["Title"] = "SecondFormularSample";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>SecondFormularSample</h1>
+
+<form>
+    <br />
+    
+    <input type="submit" name="save" value="Save" formaction="/Data/SaveForm" formmethod="post" />
+
+    <input type="submit" name="cancel" value="Cancel" formaction="/Data/CancelForm" formmethod="post" />
+</form>

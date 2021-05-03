@@ -1,0 +1,150 @@
+﻿@model IEnumerable<Person>
+
+@{ //Ich bin lokaler Codeblock - Kann lokale Variablen und lokale Methoden anbieten
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    string variable1 = "Hello World";
+
+    int countOfData = Model.Count<Person>();
+
+    object obj = null;
+    int value = 1;
+
+
+    void RenderName(string name)
+    {
+        <p>Name: <strong>@name</strong></p>
+    }
+
+    RenderName("Mahatma Gandhi");
+    RenderName("Martin Luther King, Jr.");
+}
+
+@variable1;
+
+<h1>Index</h1>
+<p>Anzahl der Datensätz: @Model.Count()</p>
+
+@*Einfache Aufzählung*@
+@if (Model.Count<Person>() == 0)
+{
+    <p>Es befinden sich keine Datensätze zu anzeige</p>
+}
+else
+{
+    foreach (Person currentPeson in Model)
+    {
+        <p>Id: @currentPeson.Id </p>
+        <p>Firstname: @currentPeson.FirstName</p>
+        <p>Lastname: @currentPeson.LastName</p>
+        <hr />
+
+    }
+}
+
+
+
+
+<p>If-Statement</p>
+@if (DateTime.IsLeapYear(2016))
+{
+    <p>Ist ein Schaltjahr</p>
+}
+else
+{
+    <p>Ist kein Schaltjahr</p>
+}
+
+<div style='@(Model.First().Id == 1 ? "background-color:yellow":"background-color:orange")'>Ausgabe, damit das Div auch eine gewisse Größe beinhaltet</div>
+@*<div style='@(Model.First().Id == 1 ? "background-color:yellow":"background-color:orange")'>Car-Color</div>*@
+
+@switch (value)
+{
+    case 1:
+        RenderName("Haribo");
+        break;
+    default:
+        <p>Zuordnung zu Wert nicht gefunden</p>
+        break;
+}
+
+
+@using (Html.BeginForm())
+{
+    <div>
+        Email: <input type="email" id="Email" value="">
+        <button>Register</button>
+    </div>
+}
+
+@try
+{
+    //Wird höchstens verwendet, wenn man beim Auslesen von Strukturen auf null-Referencen stoßen könnte
+}
+catch (Exception ex)
+{
+
+}
+finally
+{
+
+}
+
+@*@lock (obj)
+{
+    //wird meist verwendet dass nur ein Thread Daten beschreibt. 
+}*@
+
+
+@* Tabelle mit Verlinkung auf die Details-Seite *@
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @* ERste Spalte wird Id als Column-Header gesetzt *@
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LastName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Person currentPerson in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => currentPerson.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => currentPerson.FirstName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => currentPerson.LastName)
+                </td>
+                <td>
+                    <!--Verlinkung Details-Action Methode wird aufgerufen-->
+                    @Html.ActionLink("Zeige Details", "Details",  new { currentPerson.Id })
+                    @Html.ActionLink("Zeige Details", "Details", "Data", new { currentPerson.Id })
+                    @Html.ActionLink("Zeige Details", "Index", "Home")
+                </td>
+            </tr>
+        }
+
+    </tbody>
+</table>
+
+
+@section Scripts
+{
+    <script>
+        $('h1').text('Hallo liebe Teilnehmer');
+    </script>
+}
+
