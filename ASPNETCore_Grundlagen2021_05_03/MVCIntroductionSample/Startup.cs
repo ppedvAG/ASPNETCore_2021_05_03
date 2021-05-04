@@ -23,7 +23,13 @@ namespace MVCIntroductionSample
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            //Registriere Dienste und einfache Klassen(Lib)
             services.AddControllersWithViews();
+
+
+            //Razor Page Framework
+            //services.AddRazorPages();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -48,9 +54,16 @@ namespace MVCIntroductionSample
 
             app.UseEndpoints(endpoints =>
             {
+                //Viele Wege führen zur Home/Index-Methode
+                //http://localhost:12345/Home/Index
+                //http://localhost:12345/Home/
+                //http://localhost:12345/
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
+
+                //Razor Page Framework
+                //endpoints.MapRazorPages();
             });
         }
     }

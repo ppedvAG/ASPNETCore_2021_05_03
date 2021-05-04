@@ -1,0 +1,51 @@
+﻿@using MVCWithViewModelsAndEFCore.ViewModel;
+@model PlaceVM
+
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+
+
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Humans[0].Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Humans[0].Name)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Humans)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+
+
+<partial name="_ShowAnimalsPartialView" />
+
+@*@foreach (Human currentHuman in Model.Humans)
+{
+    <p>@currentHuman.Id</p>
+    <p>@currentHuman.Name</p>
+}*@

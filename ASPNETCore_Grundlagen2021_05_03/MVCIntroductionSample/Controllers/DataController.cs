@@ -48,6 +48,19 @@ namespace MVCIntroductionSample.Controllers
         }
 
 
+        //GET -> Formular muss angezeigt werden
+        public IActionResult Create()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Create(Person person)
+        {
+            persons.Add(person);
+            return RedirectToAction("Index");
+        }
+
         #region First Formular Sample
         //Get Methode
         public IActionResult FormularSample()

@@ -118,3 +118,4 @@ C:\Aktueller Kurs\ASPNETCore_2021_05_03\ASPNETCore_Grundlagen2021_05_03\MVCIntro
 C:\Aktueller Kurs\ASPNETCore_2021_05_03\ASPNETCore_Grundlagen2021_05_03\MVCIntroductionSample\obj\Debug\net5.0\Razor\Views\Data\Details.cshtml.g.cs
 C:\Aktueller Kurs\ASPNETCore_2021_05_03\ASPNETCore_Grundlagen2021_05_03\MVCIntroductionSample\obj\Debug\net5.0\Razor\Views\Data\FormularSample.cshtml.g.cs
 C:\Aktueller Kurs\ASPNETCore_2021_05_03\ASPNETCore_Grundlagen2021_05_03\MVCIntroductionSample\obj\Debug\net5.0\Razor\Views\Data\SecondFormularSample.cshtml.g.cs
+C:\Aktueller Kurs\ASPNETCore_2021_05_03\ASPNETCore_Grundlagen2021_05_03\MVCIntroductionSample\obj\Debug\net5.0\Razor\Views\Data\Create.cshtml.g.cs
