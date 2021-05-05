@@ -16,6 +16,9 @@ namespace MVCWithViewModelsAndEFCore.Controllers
         {
             _context = context;
         }
+
+        [HttpPost]
+        
         public IActionResult Index()
         {
             var allHumans = _context.Menschen.ToList();

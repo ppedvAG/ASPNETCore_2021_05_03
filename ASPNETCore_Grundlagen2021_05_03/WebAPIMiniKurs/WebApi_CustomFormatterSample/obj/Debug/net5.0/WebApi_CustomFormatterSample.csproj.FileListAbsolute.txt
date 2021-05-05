@@ -1,0 +1,116 @@
+C:\LABS_Modularisierung\WebAPI_Standard\DEMOS\Modul004\WebApi_CustomFormatterSample\bin\Debug\net5.0\appsettings.Development.json
+C:\LABS_Modularisierung\WebAPI_Standard\DEMOS\Modul004\WebApi_CustomFormatterSample\bin\Debug\net5.0\appsettings.json
+C:\LABS_Modularisierung\WebAPI_Standard\DEMOS\Modul004\WebApi_CustomFormatterSample\bin\Debug\net5.0\WebApi_CustomFormatterSample.exe
+C:\LABS_Modularisierung\WebAPI_Standard\DEMOS\Modul004\WebApi_CustomFormatterSample\bin\Debug\net5.0\WebApi_CustomFormatterSample.deps.json
+C:\LABS_Modularisierung\WebAPI_Standard\DEMOS\Modul004\WebApi_CustomFormatterSample\bin\Debug\net5.0\WebApi_CustomFormatterSample.runtimeconfig.json
+C:\LABS_Modularisierung\WebAPI_Standard\DEMOS\Modul004\WebApi_CustomFormatterSample\bin\Debug\net5.0\WebApi_CustomFormatterSample.runtimeconfig.dev.json
+C:\LABS_Modularisierung\WebAPI_Standard\DEMOS\Modul004\WebApi_CustomFormatterSample\bin\Debug\net5.0\WebApi_CustomFormatterSample.dll
+C:\LABS_Modularisierung\WebAPI_Standard\DEMOS\Modul004\WebApi_CustomFormatterSample\bin\Debug\net5.0\ref\WebApi_CustomFormatterSample.dll
+C:\LABS_Modularisierung\WebAPI_Standard\DEMOS\Modul004\WebApi_CustomFormatterSample\bin\Debug\net5.0\WebApi_CustomFormatterSample.pdb
+C:\LABS_Modularisierung\WebAPI_Standard\DEMOS\Modul004\WebApi_CustomFormatterSample\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\LABS_Modularisierung\WebAPI_Standard\DEMOS\Modul004\WebApi_CustomFormatterSample\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\LABS_Modularisierung\WebAPI_Standard\DEMOS\Modul004\WebApi_CustomFormatterSample\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\LABS_Modularisierung\WebAPI_Standard\DEMOS\Modul004\WebApi_CustomFormatterSample\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\LABS_Modularisierung\WebAPI_Standard\DEMOS\Modul004\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.csprojAssemblyReference.cache
+C:\LABS_Modularisierung\WebAPI_Standard\DEMOS\Modul004\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\LABS_Modularisierung\WebAPI_Standard\DEMOS\Modul004\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.AssemblyInfoInputs.cache
+C:\LABS_Modularisierung\WebAPI_Standard\DEMOS\Modul004\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.AssemblyInfo.cs
+C:\LABS_Modularisierung\WebAPI_Standard\DEMOS\Modul004\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.csproj.CoreCompileInputs.cache
+C:\LABS_Modularisierung\WebAPI_Standard\DEMOS\Modul004\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.MvcApplicationPartsAssemblyInfo.cs
+C:\LABS_Modularisierung\WebAPI_Standard\DEMOS\Modul004\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.MvcApplicationPartsAssemblyInfo.cache
+C:\LABS_Modularisierung\WebAPI_Standard\DEMOS\Modul004\WebApi_CustomFormatterSample\obj\Debug\net5.0\staticwebassets\WebApi_CustomFormatterSample.StaticWebAssets.Manifest.cache
+C:\LABS_Modularisierung\WebAPI_Standard\DEMOS\Modul004\WebApi_CustomFormatterSample\obj\Debug\net5.0\staticwebassets\WebApi_CustomFormatterSample.StaticWebAssets.xml
+C:\LABS_Modularisierung\WebAPI_Standard\DEMOS\Modul004\WebApi_CustomFormatterSample\obj\Debug\net5.0\scopedcss\bundle\WebApi_CustomFormatterSample.styles.css
+C:\LABS_Modularisierung\WebAPI_Standard\DEMOS\Modul004\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.RazorTargetAssemblyInfo.cache
+C:\LABS_Modularisierung\WebAPI_Standard\DEMOS\Modul004\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.csproj.CopyComplete
+C:\LABS_Modularisierung\WebAPI_Standard\DEMOS\Modul004\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.dll
+C:\LABS_Modularisierung\WebAPI_Standard\DEMOS\Modul004\WebApi_CustomFormatterSample\obj\Debug\net5.0\ref\WebApi_CustomFormatterSample.dll
+C:\LABS_Modularisierung\WebAPI_Standard\DEMOS\Modul004\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.pdb
+C:\LABS_Modularisierung\WebAPI_Standard\DEMOS\Modul004\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.genruntimeconfig.cache
+C:\Aktueller Kurs\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\bin\Debug\net5.0\appsettings.Development.json
+C:\Aktueller Kurs\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\bin\Debug\net5.0\appsettings.json
+C:\Aktueller Kurs\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\bin\Debug\net5.0\WebApi_CustomFormatterSample.exe
+C:\Aktueller Kurs\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\bin\Debug\net5.0\WebApi_CustomFormatterSample.deps.json
+C:\Aktueller Kurs\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\bin\Debug\net5.0\WebApi_CustomFormatterSample.runtimeconfig.json
+C:\Aktueller Kurs\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\bin\Debug\net5.0\WebApi_CustomFormatterSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\bin\Debug\net5.0\WebApi_CustomFormatterSample.dll
+C:\Aktueller Kurs\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\bin\Debug\net5.0\ref\WebApi_CustomFormatterSample.dll
+C:\Aktueller Kurs\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\bin\Debug\net5.0\WebApi_CustomFormatterSample.pdb
+C:\Aktueller Kurs\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Aktueller Kurs\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Aktueller Kurs\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Aktueller Kurs\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Aktueller Kurs\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.csprojAssemblyReference.cache
+C:\Aktueller Kurs\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.AssemblyInfo.cs
+C:\Aktueller Kurs\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.MvcApplicationPartsAssemblyInfo.cs
+C:\Aktueller Kurs\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.MvcApplicationPartsAssemblyInfo.cache
+C:\Aktueller Kurs\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\obj\Debug\net5.0\staticwebassets\WebApi_CustomFormatterSample.StaticWebAssets.Manifest.cache
+C:\Aktueller Kurs\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\obj\Debug\net5.0\staticwebassets\WebApi_CustomFormatterSample.StaticWebAssets.xml
+C:\Aktueller Kurs\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\obj\Debug\net5.0\scopedcss\bundle\WebApi_CustomFormatterSample.styles.css
+C:\Aktueller Kurs\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.RazorTargetAssemblyInfo.cache
+C:\Aktueller Kurs\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.csproj.CopyComplete
+C:\Aktueller Kurs\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.dll
+C:\Aktueller Kurs\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\obj\Debug\net5.0\ref\WebApi_CustomFormatterSample.dll
+C:\Aktueller Kurs\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.pdb
+C:\Aktueller Kurs\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.genruntimeconfig.cache
+C:\Meine Kurse\WebAPI\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\bin\Debug\net5.0\appsettings.Development.json
+C:\Meine Kurse\WebAPI\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\bin\Debug\net5.0\appsettings.json
+C:\Meine Kurse\WebAPI\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\bin\Debug\net5.0\WebApi_CustomFormatterSample.exe
+C:\Meine Kurse\WebAPI\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\bin\Debug\net5.0\WebApi_CustomFormatterSample.deps.json
+C:\Meine Kurse\WebAPI\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\bin\Debug\net5.0\WebApi_CustomFormatterSample.runtimeconfig.json
+C:\Meine Kurse\WebAPI\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\bin\Debug\net5.0\WebApi_CustomFormatterSample.runtimeconfig.dev.json
+C:\Meine Kurse\WebAPI\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\bin\Debug\net5.0\WebApi_CustomFormatterSample.dll
+C:\Meine Kurse\WebAPI\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\bin\Debug\net5.0\ref\WebApi_CustomFormatterSample.dll
+C:\Meine Kurse\WebAPI\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\bin\Debug\net5.0\WebApi_CustomFormatterSample.pdb
+C:\Meine Kurse\WebAPI\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Meine Kurse\WebAPI\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Meine Kurse\WebAPI\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Meine Kurse\WebAPI\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Meine Kurse\WebAPI\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.csprojAssemblyReference.cache
+C:\Meine Kurse\WebAPI\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Meine Kurse\WebAPI\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.AssemblyInfoInputs.cache
+C:\Meine Kurse\WebAPI\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.AssemblyInfo.cs
+C:\Meine Kurse\WebAPI\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.csproj.CoreCompileInputs.cache
+C:\Meine Kurse\WebAPI\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.MvcApplicationPartsAssemblyInfo.cs
+C:\Meine Kurse\WebAPI\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.MvcApplicationPartsAssemblyInfo.cache
+C:\Meine Kurse\WebAPI\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\obj\Debug\net5.0\staticwebassets\WebApi_CustomFormatterSample.StaticWebAssets.Manifest.cache
+C:\Meine Kurse\WebAPI\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\obj\Debug\net5.0\staticwebassets\WebApi_CustomFormatterSample.StaticWebAssets.xml
+C:\Meine Kurse\WebAPI\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\obj\Debug\net5.0\scopedcss\bundle\WebApi_CustomFormatterSample.styles.css
+C:\Meine Kurse\WebAPI\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.RazorTargetAssemblyInfo.cache
+C:\Meine Kurse\WebAPI\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.csproj.CopyComplete
+C:\Meine Kurse\WebAPI\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.dll
+C:\Meine Kurse\WebAPI\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\obj\Debug\net5.0\ref\WebApi_CustomFormatterSample.dll
+C:\Meine Kurse\WebAPI\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.pdb
+C:\Meine Kurse\WebAPI\ASP5_WebAPI_2021_01_26\WebAPI_2021_01_26\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.genruntimeconfig.cache
+C:\Aktueller Kurs\ASPNETCore_2021_05_03\WebAPIMiniKurs\WebApi_CustomFormatterSample\bin\Debug\net5.0\appsettings.Development.json
+C:\Aktueller Kurs\ASPNETCore_2021_05_03\WebAPIMiniKurs\WebApi_CustomFormatterSample\bin\Debug\net5.0\appsettings.json
+C:\Aktueller Kurs\ASPNETCore_2021_05_03\WebAPIMiniKurs\WebApi_CustomFormatterSample\bin\Debug\net5.0\WebApi_CustomFormatterSample.exe
+C:\Aktueller Kurs\ASPNETCore_2021_05_03\WebAPIMiniKurs\WebApi_CustomFormatterSample\bin\Debug\net5.0\WebApi_CustomFormatterSample.deps.json
+C:\Aktueller Kurs\ASPNETCore_2021_05_03\WebAPIMiniKurs\WebApi_CustomFormatterSample\bin\Debug\net5.0\WebApi_CustomFormatterSample.runtimeconfig.json
+C:\Aktueller Kurs\ASPNETCore_2021_05_03\WebAPIMiniKurs\WebApi_CustomFormatterSample\bin\Debug\net5.0\WebApi_CustomFormatterSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\ASPNETCore_2021_05_03\WebAPIMiniKurs\WebApi_CustomFormatterSample\bin\Debug\net5.0\WebApi_CustomFormatterSample.dll
+C:\Aktueller Kurs\ASPNETCore_2021_05_03\WebAPIMiniKurs\WebApi_CustomFormatterSample\bin\Debug\net5.0\ref\WebApi_CustomFormatterSample.dll
+C:\Aktueller Kurs\ASPNETCore_2021_05_03\WebAPIMiniKurs\WebApi_CustomFormatterSample\bin\Debug\net5.0\WebApi_CustomFormatterSample.pdb
+C:\Aktueller Kurs\ASPNETCore_2021_05_03\WebAPIMiniKurs\WebApi_CustomFormatterSample\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Aktueller Kurs\ASPNETCore_2021_05_03\WebAPIMiniKurs\WebApi_CustomFormatterSample\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Aktueller Kurs\ASPNETCore_2021_05_03\WebAPIMiniKurs\WebApi_CustomFormatterSample\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Aktueller Kurs\ASPNETCore_2021_05_03\WebAPIMiniKurs\WebApi_CustomFormatterSample\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Aktueller Kurs\ASPNETCore_2021_05_03\WebAPIMiniKurs\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.csprojAssemblyReference.cache
+C:\Aktueller Kurs\ASPNETCore_2021_05_03\WebAPIMiniKurs\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\ASPNETCore_2021_05_03\WebAPIMiniKurs\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\ASPNETCore_2021_05_03\WebAPIMiniKurs\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.AssemblyInfo.cs
+C:\Aktueller Kurs\ASPNETCore_2021_05_03\WebAPIMiniKurs\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\ASPNETCore_2021_05_03\WebAPIMiniKurs\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.MvcApplicationPartsAssemblyInfo.cs
+C:\Aktueller Kurs\ASPNETCore_2021_05_03\WebAPIMiniKurs\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.MvcApplicationPartsAssemblyInfo.cache
+C:\Aktueller Kurs\ASPNETCore_2021_05_03\WebAPIMiniKurs\WebApi_CustomFormatterSample\obj\Debug\net5.0\staticwebassets\WebApi_CustomFormatterSample.StaticWebAssets.Manifest.cache
+C:\Aktueller Kurs\ASPNETCore_2021_05_03\WebAPIMiniKurs\WebApi_CustomFormatterSample\obj\Debug\net5.0\staticwebassets\WebApi_CustomFormatterSample.StaticWebAssets.xml
+C:\Aktueller Kurs\ASPNETCore_2021_05_03\WebAPIMiniKurs\WebApi_CustomFormatterSample\obj\Debug\net5.0\scopedcss\bundle\WebApi_CustomFormatterSample.styles.css
+C:\Aktueller Kurs\ASPNETCore_2021_05_03\WebAPIMiniKurs\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.RazorTargetAssemblyInfo.cache
+C:\Aktueller Kurs\ASPNETCore_2021_05_03\WebAPIMiniKurs\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.csproj.CopyComplete
+C:\Aktueller Kurs\ASPNETCore_2021_05_03\WebAPIMiniKurs\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.dll
+C:\Aktueller Kurs\ASPNETCore_2021_05_03\WebAPIMiniKurs\WebApi_CustomFormatterSample\obj\Debug\net5.0\ref\WebApi_CustomFormatterSample.dll
+C:\Aktueller Kurs\ASPNETCore_2021_05_03\WebAPIMiniKurs\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.pdb
+C:\Aktueller Kurs\ASPNETCore_2021_05_03\WebAPIMiniKurs\WebApi_CustomFormatterSample\obj\Debug\net5.0\WebApi_CustomFormatterSample.genruntimeconfig.cache

@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewData["Title"] = "TempDataSample";
+
+    string msg = TempData["Msg"].ToString();
+    string wetter = TempData["Wetter"].ToString();
+    TempData.Keep();
+}
+
+<h1>TempDataSample</h1>
+
+@msg
+
+@wetter
+
+
+@*@TempData.Peek("Msg")
+    @TempData.Peek("Wetter")*@
+

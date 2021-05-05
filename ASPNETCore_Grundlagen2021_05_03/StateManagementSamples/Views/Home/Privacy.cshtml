@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Privacy Policy";
+
+    string msg = TempData["Msg"].ToString();
+    string wetter = TempData["Wetter"].ToString();
+    TempData.Keep();
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>Use this page to detail your site's privacy policy.</p>
+
+
+@msg
+<br />
+@wetter

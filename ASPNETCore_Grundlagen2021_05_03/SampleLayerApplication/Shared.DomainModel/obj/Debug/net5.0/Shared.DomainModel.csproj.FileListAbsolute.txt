@@ -1,0 +1,11 @@
+C:\Aktueller Kurs\ASPNETCore_2021_05_03\ASPNETCore_Grundlagen2021_05_03\SampleLayerApplication\Shared.DomainModel\bin\Debug\net5.0\Shared.DomainModel.deps.json
+C:\Aktueller Kurs\ASPNETCore_2021_05_03\ASPNETCore_Grundlagen2021_05_03\SampleLayerApplication\Shared.DomainModel\bin\Debug\net5.0\Shared.DomainModel.dll
+C:\Aktueller Kurs\ASPNETCore_2021_05_03\ASPNETCore_Grundlagen2021_05_03\SampleLayerApplication\Shared.DomainModel\bin\Debug\net5.0\ref\Shared.DomainModel.dll
+C:\Aktueller Kurs\ASPNETCore_2021_05_03\ASPNETCore_Grundlagen2021_05_03\SampleLayerApplication\Shared.DomainModel\bin\Debug\net5.0\Shared.DomainModel.pdb
+C:\Aktueller Kurs\ASPNETCore_2021_05_03\ASPNETCore_Grundlagen2021_05_03\SampleLayerApplication\Shared.DomainModel\obj\Debug\net5.0\Shared.DomainModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\ASPNETCore_2021_05_03\ASPNETCore_Grundlagen2021_05_03\SampleLayerApplication\Shared.DomainModel\obj\Debug\net5.0\Shared.DomainModel.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\ASPNETCore_2021_05_03\ASPNETCore_Grundlagen2021_05_03\SampleLayerApplication\Shared.DomainModel\obj\Debug\net5.0\Shared.DomainModel.AssemblyInfo.cs
+C:\Aktueller Kurs\ASPNETCore_2021_05_03\ASPNETCore_Grundlagen2021_05_03\SampleLayerApplication\Shared.DomainModel\obj\Debug\net5.0\Shared.DomainModel.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\ASPNETCore_2021_05_03\ASPNETCore_Grundlagen2021_05_03\SampleLayerApplication\Shared.DomainModel\obj\Debug\net5.0\Shared.DomainModel.dll
+C:\Aktueller Kurs\ASPNETCore_2021_05_03\ASPNETCore_Grundlagen2021_05_03\SampleLayerApplication\Shared.DomainModel\obj\Debug\net5.0\ref\Shared.DomainModel.dll
+C:\Aktueller Kurs\ASPNETCore_2021_05_03\ASPNETCore_Grundlagen2021_05_03\SampleLayerApplication\Shared.DomainModel\obj\Debug\net5.0\Shared.DomainModel.pdb
